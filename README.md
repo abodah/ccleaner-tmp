@@ -2,7 +2,6 @@
 
 Just wondering how amazing Tailwindui is able to create such many beautiful ui component. As a former backend engineer who familiar with Laravel, I want to play around with Tailwindcss and Tailwindui (only free / open component) in this project.
 
-Visit [Demo App](http://fathomless-caverns-92546.herokuapp.com/login) to view the result.
 
 ## Stacks
 
@@ -19,3 +18,8 @@ Visit [Demo App](http://fathomless-caverns-92546.herokuapp.com/login) to view th
 3. run `npm install`
 4. run `php artisan serve` to start your web app
 5. Just fill random email and password to login
+
+## Task
+[x] Landing page
+[]  Login page  
+[]  Login authentification
