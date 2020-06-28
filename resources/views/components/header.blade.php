@@ -7,7 +7,7 @@
 
                     <!-- header logo -->
                     <div class="header-logo">
-                        <h1 class="font-semibold text-black leading-relaxed"><a href="">CCleaner</a></h1>
+                        <h1 class="font-semibold text-black leading-relaxed"><a href="{{ route('home') }}">CCleaner</a></h1>
                     </div>
 
                     <!-- mobile toggle -->

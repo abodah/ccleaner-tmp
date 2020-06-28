@@ -6,7 +6,9 @@ module.exports = {
       },
     }
   },
-  variants: {},
+  variants: {
+    height: ['responsive', 'hover', 'focus'],
+  },
   plugins: [
     require('@tailwindcss/custom-forms'),
     require('@tailwindcss/ui'),

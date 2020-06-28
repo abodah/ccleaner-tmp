@@ -29,5 +29,7 @@
     <script src="{{ mix('js/app.js') }}"></script>
     <script src="https://cdn.jsdelivr.net/gh/alpinejs/alpine@v2.3.5/dist/alpine.min.js" defer></script>
    <!--  <script src="https://cdn.jsdelivr.net/gh/alpinejs/alpine@v2.0.1/dist/alpine.js" defer></script> -->
+  <!--  https://tailwindcomponents.com/component/coinbase-clone -->
+ <!--  https://images.unsplash.com/photo-1540924633-a69d88e410de?ixlib=rb-1.2.1&auto=format&fit=crop&w=634&q=80 -->
 </body>
 </html>
