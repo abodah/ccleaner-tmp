@@ -31,7 +31,7 @@
                             <li><a href="#" class="hover:text-orange-500">Partners</a></li>
                             <li><a href="#" class="hover:text-orange-500">Feedback</a></li>
                             <li><a href="#" class="hover:text-orange-500">Pricing</a></li>
-                            <li><a href="#" class="cta bg-orange-500 hover:bg-orange-600 px-3 py-2 rounded text-white font-normal">Get the App</a></li>
+                            <li><a href="{{ route('login') }}" class="cta bg-orange-500 hover:bg-orange-600 px-3 py-2 rounded text-white font-normal">Login/Register</a></li>
                         </ul>
                     </navbar>
 
